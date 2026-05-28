@@ -26,19 +26,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": []
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": []
-          }
-        ]
       }
     ],
     "global": {
