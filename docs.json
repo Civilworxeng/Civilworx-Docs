@@ -22,31 +22,18 @@
         ]
       },
       {
-        "tab": "Training Workshops",
+        "tab": "Training",
         "groups": [
           {
-            "group": "Training Workshops",
+            "group": "Sandbox Projects",
             "pages": [
               "Training Workshops/overview",
-              "Training Workshops/Training Workshop Overview"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "SB001",
-        "groups": [
-          {
-            "group": "Overview",
-            "pages": [
-              "SB001/Project Overview",
-              "SB001/Stages Overview"
-            ]
-          },
-          {
-            "group": "Guides",
-            "pages": [
-              "SB001/Guides/PR_Ground - SB001"
+              {
+                "group": "SB001",
+                "pages": [
+                  "stages"
+                ]
+              }
             ]
           }
         ]
