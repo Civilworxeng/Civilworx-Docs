@@ -36,6 +36,23 @@
         ]
       },
       {
+        "tab": "Standards",
+        "groups": [
+          {
+            "group": "Standards",
+            "pages": [
+              "Standards/overview"
+            ]
+          },
+          {
+            "group": "Training Workshops",
+            "pages": [
+              "Standards/Training Workshops/overview"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API reference",
         "groups": [
           {
