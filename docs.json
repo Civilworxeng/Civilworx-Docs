@@ -18,7 +18,8 @@
             "pages": [
               "Standards/overview",
               "Standards/plotting",
-              "Standards/templates"
+              "Standards/templates",
+              "Standards/key-map"
             ]
           }
         ]

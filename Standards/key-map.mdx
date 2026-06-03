@@ -1,0 +1,65 @@
+---
+title: "KeyMap"
+---
+
+Summary: 
+
+Strategy:
+
+Create during the preliminary engineering plans project setup. 
+
+<Steps>
+  <Step title='Create new drawing from template "CWX_Empty"'>
+    Since we don't need any styles or settings regarding this process, we want the lightest template possible, as there will be purging frequently.
+  </Step>
+  <Step title="Save your drawing">
+    Save in Construction sheets folder as Keymap\_Update - Project ID
+
+    <Tree>
+      <Tree.Folder name="Autocad">
+        <Tree.Folder name="Construction Sheets">
+          <Tree.File name="Keymap_Update - Project ID" />
+        </Tree.Folder>
+      </Tree.Folder>
+    </Tree>
+  </Step>
+  <Step title="XREF in Base Files">
+    Xattach the respective base files from the master folder. We primarily want to see only the Site & Mapping linework\
+
+    <Tip>
+      Placeholder for page on best practice
+    </Tip>
+  </Step>
+  <Step title="Xref → Bind → Insert ">
+    Select all Xrefs and insert them as blocks
+
+    <Tip>
+      Placeholder for page on best practice
+    </Tip>
+  </Step>
+  <Step title="Copy blocks and move down">
+    We want to retain the blocks as their names will be what drawing they were inserted from. Then we need to copy the block cluster and arbitrarily set off below the project area
+
+    <Warning>
+      Caution: Do not explode any blocks, after this step you will have double the blocks that you started out with. 
+    </Warning>
+  </Step>
+  <Step title="Visually separate out blocks (Column Ordering)">
+    Take each site block and separate them out side by side to where you can see their relative site extents
+  </Step>
+  <Step title="Define outline area">
+    1. Navigate towards an existing overall site production drawing
+    2. Open overall sheet layout
+    3. Trace a rectangle around the viewport
+    4. Translate your rectangle from "paper" to "Model" while retaining the visual scale. \[CHSPACE\]
+    5. Open model
+    6. Select
+
+    <Check>
+      Validate the following: 
+
+      - Drawing settings from source to destination
+      - Viewport / Layout consistency standards ""
+    </Check>
+  </Step>
+</Steps>
