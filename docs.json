@@ -31,20 +31,21 @@
           {
             "group": "Sandbox Projects",
             "pages": [
-              "Training Workshops/overview",
-              "Training/workshop-finder",
+              "Training/overview",
               {
                 "group": "SB001 - Nova Court",
                 "pages": [
                   "stages",
                   "project-guide"
-                ]
+                ],
+                "tag": "Small Development"
               },
               {
                 "group": "SB002 - Nova Residential",
                 "pages": [
                   "untitled-page"
-                ]
+                ],
+                "tag": "Residential"
               }
             ]
           }
