@@ -28,9 +28,9 @@
       },
       {
         "tab": "Training",
-        "groups": [
+        "dropdowns": [
           {
-            "group": "Sandbox Projects",
+            "dropdown": "Sandbox Projects",
             "pages": [
               "Training/overview",
               {
