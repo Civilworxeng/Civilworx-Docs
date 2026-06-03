@@ -12,20 +12,13 @@
     "tabs": [
       {
         "tab": "Standards",
-        "dropdowns": [
+        "groups": [
           {
-            "dropdown": "Standards",
-            "pages": [
-              "Standards/overview",
-              "Standards/folder-directory",
-              "Standards/templates",
-              "Standards/plotting",
-              "Standards/page-setup",
-              ""
-            ]
+            "group": "Standards",
+            "pages": []
           },
           {
-            "dropdown": "Software How To",
+            "group": "Software How To",
             "pages": [
               "standards/software-how-to/AutoCAD",
               "standards/software-how-to/civil3-d"
@@ -35,9 +28,9 @@
       },
       {
         "tab": "Training",
-        "menu": [
+        "groups": [
           {
-            "item": "Sandbox Projects",
+            "group": "Sandbox Projects",
             "pages": [
               "Training/overview",
               {
