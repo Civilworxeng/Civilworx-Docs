@@ -21,12 +21,7 @@
               "Standards/templates",
               "Standards/plotting",
               "Standards/page-setup",
-              {
-                "group": "Production",
-                "pages": [
-                  "Standards/key-map"
-                ]
-              }
+              ""
             ]
           },
           {
@@ -40,9 +35,9 @@
       },
       {
         "tab": "Training",
-        "groups": [
+        "menu": [
           {
-            "group": "Sandbox Projects",
+            "item": "Sandbox Projects",
             "pages": [
               "Training/overview",
               {
