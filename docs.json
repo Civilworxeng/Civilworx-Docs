@@ -41,9 +41,9 @@
               {
                 "group": "SB001 - Nova Court",
                 "pages": [
-                  "project-description",
-                  "stages",
-                  "project-guide"
+                  "SB001-NovaCourt/project-description",
+                  "SB001-NovaCourt/stages",
+                  "SB001-NovaCourt/project-guide"
                 ],
                 "tag": "Small Development"
               },
