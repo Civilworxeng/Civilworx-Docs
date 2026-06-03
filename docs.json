@@ -33,22 +33,8 @@
             "dropdown": "Sandbox Projects",
             "pages": [
               "Training/overview",
-              {
-                "group": "SB001",
-                "tag": "Nova Court",
-                "pages": [
-                  "Training/SB001/project-description",
-                  "Training/SB001/stages",
-                  "Training/SB001/project-guide"
-                ]
-              },
-              {
-                "group": "SB002",
-                "tag": "Nova Residential",
-                "pages": [
-                  "Training/SB001/untitled-page"
-                ]
-              }
+              "",
+              ""
             ]
           }
         ]
