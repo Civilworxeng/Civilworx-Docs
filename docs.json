@@ -17,14 +17,14 @@
             "dropdown": "Standards",
             "pages": [
               "standards/overview",
-              "standards/folder-directory",
               "standards/templates",
               "standards/plotting",
               "standards/page-setup",
               {
                 "group": "Production",
                 "pages": [
-                  "standards/key-map"
+                  "standards/key-map",
+                  "standards/production/survey-base-translation"
                 ]
               },
               {
@@ -33,7 +33,8 @@
                   "layers-overview"
                 ]
               }
-            ]
+            ],
+            "description": ""
           },
           {
             "dropdown": "Software Tips",
@@ -55,10 +56,8 @@
                 "group": "SB001",
                 "tag": "Nova Court",
                 "pages": [
-                  "training/sb001/pr-ground-sb001",
                   "training/sb001/project-description",
                   "training/sb001/project-guide",
-                  "training/sb001/stages-overview",
                   "training/sb001/stages"
                 ]
               },
